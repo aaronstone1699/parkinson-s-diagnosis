@@ -1,0 +1,6 @@
+required libraries:
+1. openCV 3.6
+2. Numpy
+3. Tensorflow 2.0
+4. seaborn
+5. scikit-learn
